@@ -23,7 +23,7 @@ Swarm Rebuild is a standalone JavaScript browser experiment that captures the re
 Add this script tag to a page you own or are authorized to modify:
 
 ```html
-<script src="https://YOUR-HOST/swarm.js" defer></script>
+<script src="https://raw.githubusercontent.com/Sheikhlipu123/Swarm-Rebuild-Standalone/refs/heads/main/swarm.js" defer></script>
 ```
 
 The experience starts automatically after the page is ready. Replace `https://YOUR-HOST/swarm.js` with the URL where you host the file.
